@@ -11,5 +11,6 @@ to start server;
 
 kafka-server-start.sh config/server.properties
 
-// Creating topic
+//Creating topic
+
 kafka-topics.sh --bootstrap-server localhost:9092 --partitions 2 --replication-factor 1 --topic ftopic --create
