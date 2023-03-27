@@ -1,6 +1,6 @@
 /**
  * Furkan Celen
- * Made for Havelsan Kestirim Project
+ * Made for Kestirim Project
  * */
 
 package com.hvlsn;
