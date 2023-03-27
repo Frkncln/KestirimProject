@@ -1,7 +1,7 @@
 # KestirimProject
 Direction estimation target finding project.
 Linux Ubuntu Used , apache maven and kafka , Eclipse IDE used.
-
+Needs kafka and maven , with commands below should executed before run.
 commands from kafka directory
 to start zookeeper; 
 
