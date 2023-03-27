@@ -1,6 +1,6 @@
 # KestirimProject
 Direction estimation target finding project.
-Linux Ubuntu Used , apache maven and kafka , Eclipse IDE used.
+Developed on Linux Ubuntu , Java with apache maven and kafka , Eclipse IDE used.
 Needs kafka and maven , with commands below should executed before run.
 
 Commands from kafka directory
